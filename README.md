@@ -3,7 +3,7 @@ A beautiful, responsive, full featured single page site punctuated by Google Map
 
 **Link to project:** https://gentlemensbarbershop.netlify.app/
 
-![alt tag](images/sitepreview.gif)
+![alt tag](images/BarberSitePreview.gif)
 
 ## How It's Made:
 
