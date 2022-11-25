@@ -13,7 +13,7 @@ Bringing an idea to life is akin to magic and I'm pleased to say the client agre
 
 ## Optimizations
 
-An initial static image of a map was replaced by a Google Maps API providing additonal functionality, user interactivity, and a smart touch.
+An initial static image of a map was replaced by a Google Maps API providing additonal functionality, user interactivity, and a smart touch. Creating the gifs, optimzing formats, and screen recording was all an interesting adventure to conqeur in order to have good representation of the site.
 
 ## Lessons Learned:
 
