@@ -5,9 +5,6 @@ A beautiful, responsive, full featured single page site punctuated by Google Map
 
 ![](images/preview.gif)
 
-https://user-images.githubusercontent.com/102930886/204037242-b34d4757-8820-4737-9348-57c267ec30ec.mp4
-
-
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, Bootstrap
